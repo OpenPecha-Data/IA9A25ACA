@@ -1,0 +1,19 @@
+id: 2a93977817aa476aa9c8c8986794459b
+annotation_type: index
+revision: '00001'
+annotations:
+  a982e92c3f234ceabf37576af0f581e8:
+    base: 9466.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 477
+    - title: 'Chapter I: Nidāna'
+      span:
+        start: 478
+        end: 1324
+    - title: 'Chapter II: Praṇidhānacaryā'
+      span:
+        start: 1325
+        end: 1340
